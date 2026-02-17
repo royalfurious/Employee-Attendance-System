@@ -192,38 +192,10 @@ After running the seed script:
 |-----------------------|---------------------|-------------------------------|
 | `VITE_API_BASE_URL`   | Backend API URL     | http://localhost:5000/api     |
 
-## License
+## 👨‍💻 Author
 
-This project is for educational purposes.
+### Aditya Dwivedi
+🎓 B.Tech Computer Science Engineering  
+🏫 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai  
+📞 +91-9818816416  
 
-## Screenshots
-
-### Employee Login
-![Employee Login](screenshots/employee-login.png)
-
-### Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
-
-### Mark Attendance
-![Mark Attendance](screenshots/mark-attendance.png)
-
-### My Attendance History
-![My History](screenshots/my-history.png)
-
-### Employee Profile
-![Employee Profile](screenshots/employee-profile.png)
-
-### Manager Login
-![Manager Login](screenshots/manager-login.png)
-
-### Manager Dashboard
-![Manager Dashboard](screenshots/manager-dashboard.png)
-
-### All Employees Attendance
-![All Attendance](screenshots/all-attendance.png)
-
-### Team Calendar
-![Team Calendar](screenshots/team-calendar.png)
-
-### Reports
-![Reports](screenshots/reports.png)
