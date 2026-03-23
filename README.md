@@ -196,6 +196,4 @@ After running the seed script:
 
 ### Aditya Dwivedi
 🎓 B.Tech Computer Science Engineering  
-🏫 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai  
-📞 +91-9818816416  
 
